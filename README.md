@@ -1,2 +1,1 @@
-#command webui
-webui for cmd commands
+#command webui for cmd commands
